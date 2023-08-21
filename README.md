@@ -1,3 +1,4 @@
 # Java-pattern-solving
 
 Pattern solving in Java involves creating various shapes, numbers, or character formations using loops and conditionals. The key to successfully solving patterns is to understand the logic behind the pattern and break it down into smaller steps. Start by identifying the pattern's structure, such as the number of rows and columns, and any specific rules governing the elements' placement. Use nested loops to traverse through rows and columns, ensuring the correct placement of elements based on the pattern rules. Additionally, make use of if-else statements to handle any conditional requirements. Consistent practice and a clear understanding of loop control and conditional statements are crucial for effective Java pattern solving. With time and practice, you'll become more proficient in tackling various pattern challenges.
+By practicing patterns you can learn how the looping statement works.
